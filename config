@@ -1,6 +1,6 @@
 {
-  "switch":"off",
-  "loop":"no",
+  "switch":"on",
+  "loop":"yes",
   "jpush":"",
   "website":"http://sina.cn"
 }
