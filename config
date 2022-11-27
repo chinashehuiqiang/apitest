@@ -1,6 +1,6 @@
 {
   "switch":"on",
-  "loop":"no",
+  "loop":"yes",
   "jpush":"",
   "website":"http://baidu.com"
 }
