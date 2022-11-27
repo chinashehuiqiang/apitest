@@ -1,4 +1,6 @@
 {
   "switch":"on",
+  "loop":"no",
+  "jpush":""
   "website":"http://baidu.com"
 }
